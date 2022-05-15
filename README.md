@@ -1,5 +1,5 @@
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zeekands)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizkandias01&hide=javascript,html,php,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizkandias01)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizkandias01&hide=javascript,html,php,css,scss,roff)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **azizkandias01/azizkandias01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
